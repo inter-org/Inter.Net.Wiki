@@ -4,7 +4,7 @@ QQ ：1257472418
 
 生日 ：2000.11.10  
 
-ta~~(她)~~的Github主頁: [SweetIce~~Loli~~](https://github.com/SweetIceLolly)
+TA的Github主頁: [SweetIce~~Loli~~](https://github.com/SweetIceLolly)
 > "我不是蘿莉控"
 >
 > "你的ID已經出賣了你"
@@ -59,6 +59,11 @@ Minecraft活动地址：www.techat.ink:25565
 
 > 據有關媒體透露，冰棍影業和已經和Dee撕尼，0x14世代Fox，慢[wey](https://github.com/weypro)等著名影視娛樂公司達成合作，預計於今年下半年，中美合作的3D 60Hz大片正式開機。
 
+
+> "也有可能是明年上半年"
+>
+> 冰棍
+> 
 ## 冰棍英语
 
 由[WeyPro](https://github.com/weypro)自主研发的英语学习软件。  
